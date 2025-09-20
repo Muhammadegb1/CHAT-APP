@@ -25,7 +25,12 @@ const ChatHeader = () => {
                     { onlineUsers.includes(selectedUser._id ) ? "Online" : "Offline" }
                     </p>
                 </div>
-                
+
+                {/* Close button */}
+                <button onClick={ () => setSelectedUser(null) }>
+                    <X />
+                </button>
+
             </div>
         </div>
     </div>
