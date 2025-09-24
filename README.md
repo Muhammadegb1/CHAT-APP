@@ -67,6 +67,9 @@ For development with auto-reload (backend only):
 cd backend
 npm run dev
 ```
+Backend → http://localhost:5000
+
+Frontend → http://localhost:5173
 
 ---
 
