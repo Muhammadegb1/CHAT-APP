@@ -1,11 +1,10 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-<img width="1903" height="896" alt="image" src="https://github.com/user-attachments/assets/d4f46c71-1ed8-4f1c-863b-7c6d61374455" />
-
+🔗 **Live Demo:** [Click here to try it!](https://chat-app-9wx4.onrender.com/)
 <img width="1900" height="1061" alt="image" src="https://github.com/user-attachments/assets/c1f522bc-fb20-4ef5-8f8f-7c4245a3e9f1" />
 
+<img width="1903" height="896" alt="image" src="https://github.com/user-attachments/assets/d4f46c71-1ed8-4f1c-863b-7c6d61374455" />
 
-🔗 **Live Demo:** [Click here to try it!](https://chat-app-9wx4.onrender.com/)
 
 📌 **Highlights:**
 
