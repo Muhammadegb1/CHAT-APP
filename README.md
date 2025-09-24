@@ -1,6 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
-
-![Demo App](https://chat-app-9wx4.onrender.com/)
+🔗 **Live Demo:** [Click here to try it!](https://chat-app-9wx4.onrender.com/)
 
 📌 **Highlights:**
 
@@ -55,7 +54,7 @@ npm run build
 
 ### Start the App
 
-To start the backend server:
+To start the backend server (serves built frontend):
 
 ```bash
 npm start
@@ -67,9 +66,13 @@ For development with auto-reload (backend only):
 cd backend
 npm run dev
 ```
-Backend → http://localhost:5000
 
-Frontend → http://localhost:5173
+For frontend hot-reload during development:
+
+```bash
+cd frontend
+npm run dev
+```
 
 ---
 
