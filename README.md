@@ -31,11 +31,41 @@ NODE_ENV=development
 
 ---
 
-### Build & Start the App
+### Installation
+
+✅ Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/RealtimeChatApp.git
+cd RealtimeChatApp
+npm install
+```
+
+---
+
+### Build the App
+
+Run this in the project root to install dependencies in both frontend and backend and build the frontend:
 
 ```bash
 npm run build
+```
+
+---
+
+### Start the App
+
+To start the backend server:
+
+```bash
 npm start
+```
+
+For development with auto-reload (backend only):
+
+```bash
+cd backend
+npm run dev
 ```
 
 ---
